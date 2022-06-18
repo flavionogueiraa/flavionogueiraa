@@ -4,6 +4,8 @@
 - 🧑‍💻- Desenvolvedor Back-End;
 - 🔥- .
 
+Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova guia ;).
+
 ## 📊 Estatisticas
 
 <div>
