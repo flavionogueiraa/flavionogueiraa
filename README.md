@@ -25,7 +25,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
   <img align="center" alt="Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" alt="C" height="30" width="30" src="https://img.icons8.com/color/452/c-programming.png">
-  <img align="center" alt="Google tag manager" height="30" width="30" src="https://toppng.com/uploads/preview/tag-manager-google-tag-manager-logo-11562938788z1xj4xxirj.png">
+  <img align="center" alt="Google tag manager" height="30" width="30" src="https://seeklogo.com/images/G/google-tag-manager-logo-B742352AFC-seeklogo.com.png">
 </div>
 
   ##
