@@ -38,7 +38,7 @@
 </div>
   
   ## Projetos interessantes
-  
+  Aqui estão alguns projetos criados por mim que receberam um carinho especial.
   
   ### Nova Data Snippets
   <div>
@@ -46,4 +46,10 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets" target="_blank">Baixe</a> agora mesmo no seu VS code!
   </div>
 
+
+  ### Modelo para o Heroku
+  <div>
+    Uma projeto que serve de modelo, através dele você pode configurar todo o seu projeto Django para o deploy no Heroku com apenas alguns cliques!. </br>
+    Clique <a href="https://github.com/TimeNovaData/heroku_modelo" target="_blank">aqui</a> para visualizar o repositório.
+  </div>
 
