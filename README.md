@@ -28,7 +28,7 @@
   <img align="center" alt="Google tag manager" height="30" width="30" src="https://seeklogo.com/images/G/google-tag-manager-logo-B742352AFC-seeklogo.com.png">
 </div>
 
-  ##
+  ## Contato e redes socias
 
 <div>
    <a href="mailto:flavio.nogueira.profissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,5 +36,13 @@
   <a href="https://instagram.com/flavio.nogueira.silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/327861810768117763/799718637728170004" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
+  
+  ## Projetos interessantes
+  
+  <div>
+     ## Nova Data Snippets
+    Uma extensão para facilitar a vida dos programadores que trabalho com Django.
+    <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets">Baixe</a> agora mesmo no seu VS code!
+  </div>
 
 
