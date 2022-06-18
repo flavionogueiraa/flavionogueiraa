@@ -42,14 +42,19 @@
   
   ### Nova Data Snippets
   <div>
-    Uma extensão para facilitar a vida dos programadores que trabalho com Django. </br>
+    Uma extensão para facilitar a vida dos desenvolvedores que trabalham com Django. </br>
     <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets" target="_blank">Baixe</a> agora mesmo no seu VS code!
   </div>
 
 
   ### Modelo para o Heroku
   <div>
-    Uma projeto que serve de modelo, através dele você pode configurar todo o seu projeto Django para o deploy no Heroku com apenas alguns cliques!. </br>
+    Uma projeto que serve de modelo, através dele você pode configurar todo o seu projeto Django para o deploy no Heroku com apenas alguns cliques! </br>
     Clique <a href="https://github.com/TimeNovaData/heroku_modelo" target="_blank">aqui</a> para visualizar o repositório.
   </div>
 
+  ### Modelo para uma app Django
+  <div>
+    Uma projeto que serve de modelo, através dele você pode criar uma app Django super poderosa com apenas alguns cliques! </br>
+    Clique <a href="https://github.com/TimeNovaData/django_app_modelo" target="_blank">aqui</a> para visualizar o repositório.
+  </div>
