@@ -2,7 +2,7 @@
 
 - 🎓- Graduando em Tecnologia da Informação (T.I.) - UFERSA, Campus Pau dos Ferros - RN;
 - 🧑‍💻- Desenvolvedor Back-End;
-- 🔥- .
+- 🔥- _“Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra nem projeto, nem conhecimento, nem sabedoria alguma.” Eclesiastes 9:10_.
 
 Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova guia ;).
 
