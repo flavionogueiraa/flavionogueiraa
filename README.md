@@ -24,6 +24,7 @@
   <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
   <img align="center" alt="Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg">
 </div>
 
   ##
