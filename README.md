@@ -39,8 +39,9 @@
   
   ## Projetos interessantes
   
+  
+  ### Nova Data Snippets
   <div>
-     ## Nova Data Snippets
     Uma extensão para facilitar a vida dos programadores que trabalho com Django.
     <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets">Baixe</a> agora mesmo no seu VS code!
   </div>
