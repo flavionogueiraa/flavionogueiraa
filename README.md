@@ -1,7 +1,8 @@
 ## 👨 Hello, World! I'm Flávio Silva!!
 
 - 🎓- Graduando em Tecnologia da Informação (T.I.) - UFERSA, Campus Pau dos Ferros - RN;
-- 🧑‍💻- Desenvolvedor Back-End;
+- 🧑‍💻- Desenvolvedor de sistemas júnior - Back-End - <a href="https://github.com/TimeNovaData" target="_blank">Nova Data</a>;
+- ⭐- Vasto conhecimento na linguagem Python e no framework Django;
 - 🔥- _“Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra nem projeto, nem conhecimento, nem sabedoria alguma.” Eclesiastes 9:10_.
 
 Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova guia ;).
@@ -10,8 +11,9 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
 
 <div>
   <a href="https://github.com/flaviotech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotech&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotech&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+ </a>
 </div>
 
 ## 🛠 Conhecimentos
@@ -80,7 +82,7 @@ Aqui estão alguns cursos que eu fiz/estou fazendo.
   Clique <a href="https://github.com/flaviotech/advanced_django_curse" target="_blank">aqui</a> para visualizar o repositório.
 </div>
 
-### Curso Django + React
+### Curso de Django + React
 <div>
   Curso do Gregory Pacheco que ensina como podemos criar um projeto Django que se comunica com um projeto React via API! </br>
   Clique <a href="https://github.com/flaviotech/django-react-backend" target="_blank">aqui</a> para visualizar o repositório do backend. </br>
@@ -93,7 +95,7 @@ Aqui estão alguns cursos que eu fiz/estou fazendo.
   Clique <a href="https://github.com/flaviotech/django_rest_framework" target="_blank">aqui</a> para visualizar o repositório.
 </div>
 
-### Curso de Javascript (estudando agora)
+### Curso de Javascript (cursando)
 <div>
   Curso do Roger Melo que nos ensina a ir do básico até o avançado na linguagem Javascript! </br>
   Infelizmente o conteúdo do curso é restrito ;( Mas você pode ver a grade do mesmo <a href="https://app.nutror.com/v3/curso/a977a43d31cedcb6e7d064649ddd6c5436155aaf" target="_blank">aqui</a>
