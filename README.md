@@ -85,7 +85,7 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
   ### Curso Django + React
   <div>
     Curso do Gregory Pacheco que ensina como podemos criar um projeto Django que se comunica com um projeto React via API! </br>
-    Clique <a href="https://github.com/flaviotech/django-react-backend" target="_blank">aqui</a> para visualizar o repositório do backend.
+    Clique <a href="https://github.com/flaviotech/django-react-backend" target="_blank">aqui</a> para visualizar o repositório do backend. </br>
     Clique <a href="https://github.com/flaviotech/django-react-frontend" target="_blank">aqui</a> para visualizar o repositório do frontend.
   </div>
 
