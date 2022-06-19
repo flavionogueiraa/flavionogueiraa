@@ -30,7 +30,7 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
   <img align="center" alt="Google tag manager" height="30" width="30" src="https://seeklogo.com/images/G/google-tag-manager-logo-B742352AFC-seeklogo.com.png">
 </div>
 
-  ## Contato e redes socias
+  ## 📩 Contato e redes socias
 
 <div>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-silva-490358211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -38,7 +38,7 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
  <a href="https://discord.com/channels/327861810768117763/799718637728170004" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
   
-  ## Projetos interessantes
+  ## 💻 Projetos interessantes
   Aqui estão alguns projetos criados por mim que receberam um carinho especial.
   
   ### Nova Data Snippets
@@ -58,4 +58,38 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
   <div>
     Uma projeto que serve de modelo, através dele você pode criar uma app Django super poderosa com apenas alguns cliques! </br>
     Clique <a href="https://github.com/TimeNovaData/django_app_modelo" target="_blank">aqui</a> para visualizar o repositório.
+  </div>
+  
+  ## 👨‍🎓 Cursos
+  Aqui estão alguns cursos que eu fiz/estou fazendo.
+  
+  ### Curso básico de Django
+  <div>
+    Curso do Gregory Pacheco que ensina os fundamentos do Django! </br>
+    Clique <a href="https://github.com/flaviotech/django_curse" target="_blank">aqui</a> para visualizar o repositório.
+  </div>
+  
+  ### Curso avançado de Django
+  <div>
+    Curso do Gregory Pacheco que ensina como o Django realmente funciona, explicando conceitos mais avançados do mesmo! </br>
+    Clique <a href="https://github.com/flaviotech/advanced_django_curse" target="_blank">aqui</a> para visualizar o repositório.
+  </div>
+
+  ### Curso Django + React
+  <div>
+    Curso do Gregory Pacheco que ensina como podemos criar um projeto Django que se comunica com um projeto React via API! </br>
+    Clique <a href="https://github.com/flaviotech/django-react-backend" target="_blank">aqui</a> para visualizar o repositório do backend.
+    Clique <a href="https://github.com/flaviotech/django-react-frontend" target="_blank">aqui</a> para visualizar o repositório do frontend.
+  </div>
+
+  ### Curso de Django Rest Framework
+  <div>
+    Curso do Gregory Pacheco (sim, eu gosto dos cursos do Gregory) que ensina como podemos criar uma poderosa API! </br>
+    Clique <a href="https://github.com/flaviotech/django_rest_framework" target="_blank">aqui</a> para visualizar o repositório.
+  </div>
+
+  ### Curso de Javascript (estudando agora)
+  <div>
+    Curso do Roger Melo que nos ensina a ir do básico até o avançado na linguagem Javascript! </br>
+    Infelizmente o conteúdo do curso é restrito ;( Mas você pode ver a grade do mesmo <a href="https://app.nutror.com/v3/curso/a977a43d31cedcb6e7d064649ddd6c5436155aaf" target="_blank">aqui</a>
   </div>
