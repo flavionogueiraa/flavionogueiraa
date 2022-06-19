@@ -41,14 +41,14 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
   ## 💻 Projetos interessantes
   Aqui estão alguns projetos criados por mim que receberam um carinho especial.
 
-  <div style="display: grid; grid-template-columns: 1fr 1fr;">
+  <div style="display: inline;">
+  <div>
+    <h3>Nova Data Snippets</h3>
     <div>
-      <h3>Nova Data Snippets</h3>
-      <div>
-        Uma extensão para facilitar a vida dos desenvolvedores que trabalham com Django. </br>
-        <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets" target="_blank">Baixe</a> agora mesmo no seu VS code!
-      </div>
+      Uma extensão para facilitar a vida dos desenvolvedores que trabalham com Django. </br>
+      <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets" target="_blank">Baixe</a> agora mesmo no seu VS code!
     </div>
+  </div>
 
   <div>
     <h3>Modelo para o Heroku</h3>
@@ -57,7 +57,7 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
       Clique <a href="https://github.com/TimeNovaData/heroku_modelo" target="_blank">aqui</a> para visualizar o repositório.
     </div>
   </div>
-    
+
   <div>
     <h3>Modelo para uma app Django</h3>
     <div>
