@@ -1,7 +1,8 @@
 ## 👨 Hello, World! I'm Flávio Silva!!
 
 - 🎓- Graduando em Tecnologia da Informação (T.I.) - UFERSA, Campus Pau dos Ferros - RN;
-- 🧑‍💻- Desenvolvedor Back-End;
+- 🧑‍💻- Desenvolvedor de sistemas júnior - Back-End - <a href="https://github.com/TimeNovaData" target="_blank">Nova Data</a>;
+- ⭐- Vasto conhecimento na linguagem Python e no framework Django;
 - 🔥- _“Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra nem projeto, nem conhecimento, nem sabedoria alguma.” Eclesiastes 9:10_.
 
 Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova guia ;).
@@ -10,8 +11,9 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
 
 <div>
   <a href="https://github.com/flaviotech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotech&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotech&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+ </a>
 </div>
 
 ## 🛠 Conhecimentos
