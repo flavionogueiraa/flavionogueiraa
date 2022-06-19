@@ -82,7 +82,7 @@ Aqui estão alguns cursos que eu fiz/estou fazendo.
   Clique <a href="https://github.com/flaviotech/advanced_django_curse" target="_blank">aqui</a> para visualizar o repositório.
 </div>
 
-### Curso Django + React
+### Curso de Django + React
 <div>
   Curso do Gregory Pacheco que ensina como podemos criar um projeto Django que se comunica com um projeto React via API! </br>
   Clique <a href="https://github.com/flaviotech/django-react-backend" target="_blank">aqui</a> para visualizar o repositório do backend. </br>
@@ -95,7 +95,7 @@ Aqui estão alguns cursos que eu fiz/estou fazendo.
   Clique <a href="https://github.com/flaviotech/django_rest_framework" target="_blank">aqui</a> para visualizar o repositório.
 </div>
 
-### Curso de Javascript (estudando agora)
+### Curso de Javascript (cursando)
 <div>
   Curso do Roger Melo que nos ensina a ir do básico até o avançado na linguagem Javascript! </br>
   Infelizmente o conteúdo do curso é restrito ;( Mas você pode ver a grade do mesmo <a href="https://app.nutror.com/v3/curso/a977a43d31cedcb6e7d064649ddd6c5436155aaf" target="_blank">aqui</a>
