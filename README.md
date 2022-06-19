@@ -37,15 +37,15 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
   <a href="https://instagram.com/flavio.nogueira.silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/327861810768117763/799718637728170004" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-  
+
   ## 💻 Projetos interessantes
   Aqui estão alguns projetos criados por mim que receberam um carinho especial.
-
-  <div style="display: inline;">
+<div>
+  <div style="display: flex; align-items: flex-start;">
   <div>
     <h3>Nova Data Snippets</h3>
     <div>
-      Uma extensão para facilitar a vida dos desenvolvedores que trabalham com Django. </br>
+      Uma extensão para facilitar a vida dos desenvolvedores que trabalham com Django. <br>
       <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets" target="_blank">Baixe</a> agora mesmo no seu VS code!
     </div>
   </div>
@@ -53,7 +53,7 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
   <div>
     <h3>Modelo para o Heroku</h3>
     <div>
-      Uma projeto que serve de modelo, através dele você pode configurar todo o seu projeto Django para o deploy no Heroku com apenas alguns cliques! </br>
+      Uma projeto que serve de modelo, através dele você pode configurar todo o seu projeto Django para o deploy no Heroku com apenas alguns cliques! <br>
       Clique <a href="https://github.com/TimeNovaData/heroku_modelo" target="_blank">aqui</a> para visualizar o repositório.
     </div>
   </div>
@@ -66,6 +66,7 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
     </div>
   </div>
   </div>
+</div>
   
   ## 👨‍🎓 Cursos
   Aqui estão alguns cursos que eu fiz/estou fazendo.
