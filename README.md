@@ -70,6 +70,18 @@ Aqui estão alguns projetos criados por mim que receberam um carinho especial.
 ## 👨‍🎓 Cursos
 Aqui estão alguns cursos que eu fiz/estou fazendo.
 
+### Curso de controle e versionamento de código (GIT)
+<div>
+  Curso coordenado pelo professor Robson Locatelli! </br>
+  Clique <a href="https://github.com/flaviotech/flaviotech/blob/main/certifiado_uml.pdf" target="_blank">aqui</a> para visualizar o certificado.
+</div>
+
+### Curso de UML
+<div>
+  Curso coordenado pelo professor Felipe Torres! </br>
+  Clique <a href="https://github.com/flaviotech/flaviotech/blob/main/certifiado_uml.pdf" target="_blank">aqui</a> para visualizar o certificado.
+</div>
+
 ### Curso básico de Django
 <div>
   Curso do Gregory Pacheco que ensina os fundamentos do Django! </br>
