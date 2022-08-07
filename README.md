@@ -47,9 +47,7 @@ Aqui estão alguns projetos criados por mim que receberam um carinho especial.
   <h3>Nova Data Snippets</h3>
   <div>
     Uma extensão para facilitar a vida dos desenvolvedores que trabalham com Django. </br>
-    <a href="https://github.com/TimeNovaData/nova_data_snippets">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&theme=chartreuse-dark" />
-    </a> </br>
+    
     <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets" target="_blank">Baixe</a> agora mesmo no seu VS code!
   </div>
 </div>
