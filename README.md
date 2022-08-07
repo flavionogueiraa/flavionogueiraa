@@ -49,7 +49,7 @@ Aqui estão alguns projetos criados por mim que receberam um carinho especial.
     Uma extensão para facilitar a vida dos desenvolvedores que trabalham com Django. </br>
     <a href="https://github.com/TimeNovaData/nova_data_snippets">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&theme=chartreuse-dark" />
-    </a>
+    </a> </br>
     <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets" target="_blank">Baixe</a> agora mesmo no seu VS code!
   </div>
 </div>
@@ -58,7 +58,9 @@ Aqui estão alguns projetos criados por mim que receberam um carinho especial.
   <h3>Modelo para o Heroku</h3>
   <div>
     Uma projeto que serve de modelo, através dele você pode configurar todo o seu projeto Django para o deploy no Heroku com apenas alguns cliques! </br>
-    Clique <a href="https://github.com/TimeNovaData/heroku_modelo" target="_blank">aqui</a> para visualizar o repositório.
+    <a href="https://github.com/TimeNovaData/heroku_modelo">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=heroku_modelo&theme=chartreuse-dark" />
+    </a> </br>
   </div>
 </div>
 
@@ -66,13 +68,11 @@ Aqui estão alguns projetos criados por mim que receberam um carinho especial.
   <h3>Modelo para uma app Django</h3>
   <div>
     Uma projeto que serve de modelo, através dele você pode criar uma app Django super poderosa com apenas alguns cliques! </br>
-    Clique <a href="https://github.com/TimeNovaData/django_app_modelo" target="_blank">aqui</a> para visualizar o repositório.
+    <a href="https://github.com/TimeNovaData/django_app_modelo">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=django_app_modelo&theme=chartreuse-dark" />
+    </a> </br>
   </div>
 </div>
-
-<a href="https://github.com/flaviotech/django-full-crud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flaviotech&repo=django-full-crud&theme=chartreuse-dark" />
-</a>
   
 ## 👨‍🎓 Cursos
 Aqui estão alguns cursos que eu fiz/estou fazendo.
