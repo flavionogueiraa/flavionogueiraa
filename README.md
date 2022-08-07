@@ -1,7 +1,7 @@
 ## 👨 Hello, World! I'm Flávio Silva!!
 
 - 🎓- Graduando em Tecnologia da Informação (T.I.) - UFERSA, Campus Pau dos Ferros - RN;
-- 🧑‍💻- Desenvolvedor de sistemas júnior - Back-End - <a href="https://github.com/TimeNovaData" target="_blank">Nova Data</a>;
+- 🧑‍💻- Desenvolvedor de sistemas júnior - Back-End - <a href="https://github.com/TimeNovaData" target="_blank">novadata</a>;
 - ⭐- Vasto conhecimento na linguagem Python e no framework Django;
 - 🔥- _“Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra nem projeto, nem conhecimento, nem sabedoria alguma.” Eclesiastes 9:10_.
 
@@ -41,38 +41,18 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
 </div>
   
 ## 💻 Projetos interessantes
-Aqui estão alguns projetos criados por mim que receberam um carinho especial.
+Aqui estão alguns projetos criados por mim que receberam um carinho especial 💚.
 
-<div>
-  <h3>Nova Data Snippets</h3>
-  <div>
-    Uma extensão para facilitar a vida dos desenvolvedores que trabalham com Django. </br>
-    <a href="https://github.com/TimeNovaData/nova_data_snippets">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&theme=chartreuse-dark" />
-    </a> </br>
-    <a href="https://marketplace.visualstudio.com/items?itemName=NovaDataSnippets.nova-data-snippets" target="_blank">Baixe</a> agora mesmo no seu VS code!
-  </div>
-</div>
+|       |       |
+| :---: | :---: |
+| `novadata snippets` ![novadata_snippets]   | `Django full crud` ![django_full_crud]  |
+| `Modelo app Django` ![django_app_modelo]   | `Modelo heroku` ![heroku_modelo]  |
 
-<div>
-  <h3>Modelo para o Heroku</h3>
-  <div>
-    Uma projeto que serve de modelo, através dele você pode configurar todo o seu projeto Django para o deploy no Heroku com apenas alguns cliques! </br>
-    <a href="https://github.com/TimeNovaData/heroku_modelo">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=heroku_modelo&theme=chartreuse-dark" />
-    </a> </br>
-  </div>
-</div>
 
-<div>
-  <h3>Modelo para uma app Django</h3>
-  <div>
-    Uma projeto que serve de modelo, através dele você pode criar uma app Django super poderosa com apenas alguns cliques! </br>
-    <a href="https://github.com/TimeNovaData/django_app_modelo">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=django_app_modelo&theme=chartreuse-dark" />
-    </a> </br>
-  </div>
-</div>
+[novadata_snippets]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&theme=chartreuse-dark
+[django_full_crud]: https://github-readme-stats.vercel.app/api/pin/?username=flaviotech&repo=django-full-crud&theme=chartreuse-dark
+[django_app_modelo]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=django_app_modelo&theme=chartreuse-dark
+[heroku_modelo]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=heroku_modelo&theme=chartreuse-dark
   
 ## 👨‍🎓 Cursos
 Aqui estão alguns cursos que eu fiz/estou fazendo.
