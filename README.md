@@ -45,14 +45,14 @@ Aqui estão alguns projetos criados por mim que receberam um carinho especial �
 
 |       |       |
 | :---: | :---: |
-| `novadata snippets` ![novadata_snippets]   | `Django full crud` ![django_full_crud]  |
-| `Modelo app Django` ![django_app_modelo]   | `Modelo heroku` ![heroku_modelo]  |
+| [`novadata snippets`](https://github.com/TimeNovaData/nova_data_snippets) ![novadata_snippets_repo_card]   | [`Django full crud`](https://github.com/flaviotech/django-full-crud) ![django_full_crud_repo_card]  |
+| [`Modelo app Django`](https://github.com/TimeNovaData/django_app_modelo) ![django_app_modelo_repo_card]   | [`Modelo heroku`](https://github.com/TimeNovaData/heroku_modelo) ![heroku_modelo_repo_card]  |
 
 
-[novadata_snippets]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&theme=chartreuse-dark
-[django_full_crud]: https://github-readme-stats.vercel.app/api/pin/?username=flaviotech&repo=django-full-crud&theme=chartreuse-dark
-[django_app_modelo]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=django_app_modelo&theme=chartreuse-dark
-[heroku_modelo]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=heroku_modelo&theme=chartreuse-dark
+[novadata_snippets_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&theme=chartreuse-dark
+[django_full_crud_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=flaviotech&repo=django-full-crud&theme=chartreuse-dark
+[django_app_modelo_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=django_app_modelo&theme=chartreuse-dark
+[heroku_modelo_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=heroku_modelo&theme=chartreuse-dark
   
 ## 👨‍🎓 Cursos
 Aqui estão alguns cursos que eu fiz/estou fazendo.
