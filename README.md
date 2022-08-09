@@ -41,7 +41,7 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
 </div>
   
 ## 💻 Projetos interessantes
-Aqui estão alguns projetos criados por mim que receberam um carinho especial 💚.
+Aqui estão alguns projetos criados por mim que receberam um carinho especial 💙.
 
 |       |       |
 | :---: | :---: |
