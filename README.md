@@ -11,7 +11,7 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
 
 <div>
   <a href="https://github.com/flaviotech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&bg_color=7EC8E3,0000FF,050A30&title_color=fff&text_color=eee&color=eeeinclude_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&bg_color=0E86D4,055C9D,000C66&title_color=fff&text_color=eee&color=eeeinclude_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotech&layout=compact&langs_count=7&count_private=false&theme=chartreuse-dark"/>
  </a>
 </div>
