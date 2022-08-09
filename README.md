@@ -11,8 +11,8 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
 
 <div>
   <a href="https://github.com/flaviotech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&bg_color=0E86D4,055C9D,000C66&title_color=fff&text_color=eee&color=eeeinclude_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotech&layout=compact&langs_count=7&count_private=false&theme=chartreuse-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotech&layout=compact&langs_count=7&count_private=false&icon_color=D4F1F4&bg_color=0E86D4,055C9D,000C66&title_color=fff&text_color=fff&color=fff"/>
  </a>
 </div>
 
@@ -49,10 +49,10 @@ Aqui estão alguns projetos criados por mim que receberam um carinho especial �
 | [`Modelo app Django`](https://github.com/TimeNovaData/django_app_modelo) ![django_app_modelo_repo_card]   | [`Modelo heroku`](https://github.com/TimeNovaData/heroku_modelo) ![heroku_modelo_repo_card]  |
 
 
-[novadata_snippets_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&theme=chartreuse-dark
-[django_full_crud_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=flaviotech&repo=django-full-crud&theme=chartreuse-dark
-[django_app_modelo_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=django_app_modelo&theme=chartreuse-dark
-[heroku_modelo_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=heroku_modelo&theme=chartreuse-dark
+[novadata_snippets_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
+[django_full_crud_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=flaviotech&repo=django-full-crud&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
+[django_app_modelo_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=django_app_modelo&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
+[heroku_modelo_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=heroku_modelo&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
   
 ## 👨‍🎓 Cursos
 Aqui estão alguns cursos que eu fiz/estou fazendo.
