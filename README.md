@@ -45,14 +45,14 @@ Aqui estão alguns projetos criados por mim que receberam um carinho especial �
 
 |       |       |
 | :---: | :---: |
-| [`novadata snippets`](https://github.com/TimeNovaData/nova_data_snippets) ![novadata_snippets_repo_card]   | [`Django full crud`](https://github.com/flaviotech/django-full-crud) ![django_full_crud_repo_card]  |
+| [`novadata snippets`](https://github.com/TimeNovaData/nova_data_snippets) ![novadata_snippets_repo_card]   | [`Django full crud`](https://github.com/flavionogueiraa/django-full-crud) ![django_full_crud_repo_card]  |
 | [`Modelo app Django`](https://github.com/TimeNovaData/django_app_modelo) ![django_app_modelo_repo_card]   | [`Boilerplate novadata`](https://github.com/TimeNovaData/boilerplate_novadata) ![boilerplate_novadata_repo_card]  |
 
 
 [novadata_snippets_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=nova_data_snippets&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
-[django_full_crud_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=flaviotech&repo=django-full-crud&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
+[django_full_crud_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=flavionogueiraa&repo=django-full-crud&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
 [django_app_modelo_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=django_app_modelo&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
-[boilerplate_novadata]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=boilerplate_novadata&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
+[boilerplate_novadata_repo_card]: https://github-readme-stats.vercel.app/api/pin/?username=TimeNovaData&repo=boilerplate_novadata&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff
   
 ## 👨‍🎓 Cursos
 Aqui estão alguns cursos que eu fiz/estou fazendo.
