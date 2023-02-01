@@ -11,8 +11,8 @@ Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova gui
 
 <div>
   <a href="https://github.com/flaviotech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotech&show_icons=true&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotech&layout=compact&langs_count=7&count_private=false&icon_color=D4F1F4&bg_color=0E86D4,055C9D,000C66&title_color=fff&text_color=fff&color=fff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavionogueiraa&show_icons=true&bg_color=0E86D4,055C9D,000C66&icon_color=D4F1F4&title_color=fff&text_color=fff&color=fff&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavionogueiraa&layout=compact&langs_count=7&count_private=false&icon_color=D4F1F4&bg_color=0E86D4,055C9D,000C66&title_color=fff&text_color=fff&color=fff"/>
  </a>
 </div>
 
